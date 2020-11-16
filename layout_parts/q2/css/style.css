@@ -12,17 +12,17 @@
   padding: 20px;
 }
 
-.box1 img{
+.top-box img{
   float: left;
   margin: 0 20px 10px 0;
 }
 
-.box2 img{
+.bottom-box img{
   float: right;
   margin: 0 0 10px 20px;
 }
 
-p{  
+.text{  
   font-size: 18px;
   line-height: 22px;
   word-break: break-all;

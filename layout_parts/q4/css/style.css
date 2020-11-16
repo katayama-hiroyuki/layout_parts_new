@@ -2,53 +2,59 @@
 
 /* 回答はここに書いてね */
 
-.pubg{
+.contents{
   background-color: aliceblue;
   padding: 20px;
 }
-  
-.erangel{
-  display: table;
-  width: 100%;
-}
 
-.pochinki{
-  display: table-cell;
-  background-color:#e0abd9;
+.box{
   padding: 20px 0;
   text-align: center;
 }
 
-.pochinki:first-child{
+.top-contents{
+  display: table;
+  width: 100%;
+}
+
+.orange{
   background-color: #fdc8b8;
   width: 100px;
+  display: table-cell;
 }
 
-.pochinki:nth-child(3){
+
+.pink{
+  background-color:#e0abd9;
+  display: table-cell;
+}
+
+.blew{
   background-color: #b6d8ed;
   width: 100px;
+  display: table-cell;
 }
 
-.livik{
+.bottom-contents{
   display: table;
   margin-top: 20px;
   width: 100%;
 }
 
-.midtstein{
-  display: table-cell;
+.yellow{
   background-color:#e5d32e;
-  padding: 20px 0;
-  text-align: center;
+  display: table-cell;
 }
 
-.midtstein:nth-child(2){
+.red{
   background-color: #ec8f9a;
+  display: table-cell;
 }
 
-.midtstein:last-child{
+.greeeen{
   background-color: #8fdcad;
   width: 500px;
+  display: table-cell;
 }
 
 /* 回答はここに書いてね */
