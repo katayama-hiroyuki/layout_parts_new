@@ -7,54 +7,48 @@
   padding: 20px;
 }
 
-.box{
+.color-box{
   padding: 20px 0;
   text-align: center;
+  display: table-cell;
 }
 
-.top-contents{
-  display: table;
-  width: 100%;
+.sub-contents:first-child{
+  margin-top: 0;
 }
 
 .orange{
   background-color: #fdc8b8;
   width: 100px;
-  display: table-cell;
 }
-
 
 .pink{
   background-color:#e0abd9;
-  display: table-cell;
 }
 
 .blew{
   background-color: #b6d8ed;
   width: 100px;
-  display: table-cell;
 }
 
-.bottom-contents{
+
+.sub-contents{
   display: table;
-  margin-top: 20px;
   width: 100%;
+  margin-top: 20px;
 }
 
 .yellow{
   background-color:#e5d32e;
-  display: table-cell;
 }
 
 .red{
   background-color: #ec8f9a;
-  display: table-cell;
 }
 
 .greeeen{
   background-color: #8fdcad;
   width: 500px;
-  display: table-cell;
 }
 
 /* 回答はここに書いてね */
