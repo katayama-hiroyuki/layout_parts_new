@@ -2,13 +2,13 @@
 
 /* 回答はここに書いてね */
 
-.main-box{
+.main-box {
   background-color: #eff3f4;
   width: 940px;
   margin: auto;
 }
 
-.contents{
+.contents {
   padding: 20px;
 }
 
@@ -19,17 +19,17 @@
 }
 
 
-.top-box img{
+.top-box img {
   float: left;
   margin: 0 20px 10px 0;
 }
 
-.bottom-box img{
+.bottom-box img {
   float: right;
   margin: 0 0 10px 20px;
 }
 
-.text{  
+.text {  
   font-size: 18px;
   line-height: 22px;
   word-break: break-all;

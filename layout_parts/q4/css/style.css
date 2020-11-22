@@ -2,51 +2,50 @@
 
 /* 回答はここに書いてね */
 
-.contents{
+.contents {
   background-color: aliceblue;
   padding: 20px;
 }
 
-.color-box{
+.color-box {
   padding: 20px 0;
   text-align: center;
   display: table-cell;
 }
 
-.sub-contents:first-child{
+.sub-contents:first-child {
   margin-top: 0;
 }
 
-.orange{
-  background-color: #fdc8b8;
-  width: 100px;
-}
-
-.pink{
-  background-color:#e0abd9;
-}
-
-.blew{
-  background-color: #b6d8ed;
-  width: 100px;
-}
-
-
-.sub-contents{
+.sub-contents {
   display: table;
   width: 100%;
   margin-top: 20px;
 }
 
-.yellow{
+.orange {
+  background-color: #fdc8b8;
+  width: 100px;
+}
+
+.pink {
+  background-color:#e0abd9;
+}
+
+.blew {
+  background-color: #b6d8ed;
+  width: 100px;
+}
+
+.yellow {
   background-color:#e5d32e;
 }
 
-.red{
+.red {
   background-color: #ec8f9a;
 }
 
-.greeeen{
+.greeeen {
   background-color: #8fdcad;
   width: 500px;
 }

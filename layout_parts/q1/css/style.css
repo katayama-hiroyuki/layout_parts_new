@@ -9,14 +9,14 @@
   clear: both;
 }
 
-.content{
+.content {
   margin: 0 auto;
   width: 900px;
   padding: 20px;
   background-color: #eff3f4;
 }
 
-.content-box{
+.content-box {
   background-color: #3274ae;
   width: 230px;
   padding: 20px;
@@ -24,11 +24,11 @@
   float: left;
 }
 
-.content-box:first-child{
+.content-box:first-child {
   margin-left: 0;
 }
 
-.text-box{
+.text-box {
   border: 10px solid #022336;
   background-color: #eaf4ff;
   padding: 20px;

@@ -2,12 +2,12 @@
 
 /* 回答はここに書いてね */
 
-.contents{
+.contents {
   table-layout: fixed;
   width: 100%;
 }
 
-.contents th{
+.contents th {
   padding: 10px;
   border: solid #dedede 1px;
   font-size:18px;
@@ -16,18 +16,18 @@
   color:#fff;
 }
 
-.contents td{
+.contents td {
   text-align: center;
   font-size:16px;
   line-height:22px;
   border: solid #dedede 1px;
 }
 
-.contents tbody tr:last-child{
+.contents tbody tr:last-child {
   border-top: dashed #002 2px ;
 }
 
-.contents tbody tr:nth-child(2n){
+.contents tbody tr:nth-child(2n) {
   background-color: #ecf1f2;
 }
 
