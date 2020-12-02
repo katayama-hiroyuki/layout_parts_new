@@ -10,12 +10,18 @@
   margin: 0 auto;
 }
 
-.k_transition img {
+.car {
   transition: 0.5s;
 }
 
-.k_transition img:hover{
+.car:hover {
   transform: scale(1.5);
+}
+
+.text-wrap:hover {
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .text-wrap {
