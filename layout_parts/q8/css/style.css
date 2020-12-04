@@ -8,6 +8,7 @@
   height: 333px;
   position: relative;
   margin: 0 auto;
+  cursor: pointer;
 }
 
 .car {
@@ -55,7 +56,7 @@
   animation:1.1s infinite linear spin ;
 }
 
-@keyframes spin{
+@keyframes spin {
   0% {
     transform: rotate(0deg);
   }
